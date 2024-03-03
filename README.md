@@ -1,6 +1,7 @@
 # Identifying-GANs-generated-signature
 
 ## Abstract
+![Abstract](https://github.com/haidera123/Identifying-GANs-generated-signature/blob/main/images/abstract.png)
 
 
 ## Attack and Defense Model
