@@ -5,6 +5,8 @@
 
 
 ## Attack and Defense Model
+![Abstract](https://github.com/haidera123/Identifying-GANs-generated-signature/blob/main/images/attack-defense-model.png)
+
 
 ## CycleGAN architecture
 
